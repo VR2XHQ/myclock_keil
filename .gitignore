@@ -1,0 +1,44 @@
+# Keil project files
+*.uvprojx
+*.uvoptx
+*.uvgui.*
+*.lst
+*.bak
+*.htm
+*.dep
+*.map
+
+# Keil generated files
+/Obj/
+/Listing/
+/Project_Settings/
+/*.bak
+
+# Keil user settings files
+*.dscope
+*.dssettings
+*.dsdata
+
+# Keil debug files
+*.axf
+*.elf
+
+# Keil simulation files
+*.ini
+
+# Keil RTX files
+/RTX51_Tiny/
+/RTX51_Tiny/LIB/
+/RTX51_Tiny/LIB/*.lib
+
+# Keil C51 files
+/C51/
+
+# Keil C166 files
+/C166/
+
+# Keil C251 files
+/C251/
+
+# Keil ARMCC files
+/ARMCC/

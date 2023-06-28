@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "sd3078_rtc.h": "c",
+    "sd3078_rtc_task.h": "c",
+    "main.h": "c"
+  }
+}
